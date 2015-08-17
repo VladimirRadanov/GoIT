@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+
+<html>
+  <ul>
+    <li>item</li>
+    <ul>
+      <li>nested</li>
+    </ul>
+  </ul>
+  
+  <ol start="15", reversed="reversed">
+    <li>ol item</li>
+    <li>ol item2</li>
+  </ol>
+  
+  <ol type="A">
+    <li>ol ilem1</li>
+    <li>ol imem2</li>
+  </ol>
+  
+  <ol type="a">
+    <li>ol item1</li>
+    <li>ol item2</li>
+  </ol>
+  
+</html>
